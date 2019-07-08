@@ -4,13 +4,13 @@ var b = Math.floor(Math.random() * 1000)
 function add(a, b) {
   1 + 80
 }
-function subtract(60, 40) {
+function subtract(a, b) {
   60 - 40
 }
-function multiply(2, 3.4) {
+function multiply(a, b) {
   2 * 3.4
 }
-function divide(5.0, 2.5) {
+function divide(a, b) {
   5.0 / 2.5
 }
 
