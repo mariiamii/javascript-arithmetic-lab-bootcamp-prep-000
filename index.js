@@ -41,4 +41,7 @@ function makeInt(a) {
   return parseInt(a,10)
 }
 
-
+var a = 2.222
+function preserveDecimal(a) {
+  return parseFloat(a,10)
+}
