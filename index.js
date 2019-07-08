@@ -37,7 +37,3 @@ function dec(a) {
 }
 
 var a = 2 
-function parseInt('a', 10) {
-  return a, 10
-}
-
