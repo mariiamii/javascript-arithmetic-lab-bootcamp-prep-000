@@ -28,7 +28,13 @@ function divide(a, b) {
 
 var number = 10
 
-number++
-number--
+function inc (number) {
+  return number++
+}
+
+function dec (number) {
+  return number--
+}
+
 
 
