@@ -1,16 +1,28 @@
-var a = Math.floor(Math.random() * 1000)
-var b = Math.floor(Math.random() * 1000)
+var a = 1
+var b = 80
 
 function add(a, b) {
-  return 
+  return a+b
 }
+
+var a = 60
+var b = 40
+
 function subtract(a, b) {
-  60 - 40
+  return a-b
 }
+
+var a = 2
+var b = 3.4
+
 function multiply(a, b) {
-  2 * 3.4
+  return a*b
 }
+
+var a = 5.0
+var b = 2.5 
+
 function divide(a, b) {
-  5.0 / 2.5
+  return a/b
 }
 
