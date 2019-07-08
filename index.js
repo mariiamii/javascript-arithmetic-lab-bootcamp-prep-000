@@ -1,14 +1,14 @@
-var = a,b 
+var a, b 
 
-function add() {
+function add(a, b) {
   1 + 80
 }
-function subtract() {
+function subtract(a, b) {
   60 - 40
 }
-function multiply() {
+function multiply(a, b) {
   2 * 3.4
 }
-function divide() {
+function divide(a, b) {
   5.0 / 2.5
 }
