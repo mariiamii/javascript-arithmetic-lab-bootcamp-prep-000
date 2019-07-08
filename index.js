@@ -28,21 +28,12 @@ function divide(a, b) {
 
 var a = 1
 function inc(a) {
-  return 
+  return a+1
 }
 
-var n =1 
-function dec(n) {
-  return n--
+var a = 1 
+function dec(a) {
+  return a-1
 }
-
-
-it('inc(n) increments n and returns the result', function() {
-  expect(inc(a)).toEqual(a + 1)
-})
-
-it('dec(n) decrements n and returns the result', function() {
-  expect(dec(a)).toEqual(a - 1)
-})
 
 
