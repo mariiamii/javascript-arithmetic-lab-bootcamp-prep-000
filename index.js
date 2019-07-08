@@ -26,7 +26,7 @@ function divide(a, b) {
   return a/b
 }
 
-var number = 10
+var number = 1
 
 function inc(number) {
   return number++
