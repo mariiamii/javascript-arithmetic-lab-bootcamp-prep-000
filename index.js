@@ -29,11 +29,11 @@ function divide(a, b) {
 var number = 1
 
 function inc(number) {
-  return number++
+  return number++;
 }
 
 function dec(number) {
-  return number--
+  return number--;
 }
 
 
