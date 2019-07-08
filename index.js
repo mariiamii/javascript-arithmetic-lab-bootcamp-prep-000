@@ -26,14 +26,14 @@ function divide(a, b) {
   return a/b
 }
 
-var number = 1
+var n = 1
 
-function inc(number) {
-  return number++
+function inc(n) {
+  return n++
 }
 
-function dec(number) {
-  return number--
+function dec(n) {
+  return n--
 }
 
 
