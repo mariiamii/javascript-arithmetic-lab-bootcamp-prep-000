@@ -27,11 +27,11 @@ function divide(a, b) {
 }
 
 var n = 1
-
 function inc(n) {
   return n++
 }
 
+var n =1 
 function dec(n) {
   return n--
 }
