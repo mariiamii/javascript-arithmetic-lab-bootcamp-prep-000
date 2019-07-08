@@ -26,6 +26,7 @@ function divide(a, b) {
   return a/b
 }
 
+var a = 1
 function inc(a) {
   return a+1
 }
