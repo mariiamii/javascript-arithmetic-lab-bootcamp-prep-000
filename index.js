@@ -2,7 +2,7 @@ var a = Math.floor(Math.random() * 1000)
 var b = Math.floor(Math.random() * 1000)
 
 function add(a, b) {
-  1 + 80
+  return 
 }
 function subtract(a, b) {
   60 - 40
