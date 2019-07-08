@@ -27,6 +27,8 @@ function divide(a, b) {
 }
 
 var a = 1
+a++;
+a--;
 
 
 
