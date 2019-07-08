@@ -26,8 +26,10 @@ function divide(a, b) {
   return a/b
 }
 
-var a = 1
+var inc(a) = 1
 a++;
+
+var dec(a) = 1 
 a--;
 
 
