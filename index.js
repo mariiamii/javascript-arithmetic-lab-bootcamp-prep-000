@@ -28,11 +28,11 @@ function divide(a, b) {
 
 var number = 10
 
-function inc (number) {
+function inc(number) {
   return number++
 }
 
-function dec (number) {
+function dec(number) {
   return number--
 }
 
