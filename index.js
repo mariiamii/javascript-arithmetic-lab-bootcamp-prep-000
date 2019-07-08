@@ -36,7 +36,4 @@ function dec(a) {
   return a-1
 }
 
-var text = '2'
-function = parseInt(text, 10) {
-  return parseInt(text, 10) 
-}
+console.log()
