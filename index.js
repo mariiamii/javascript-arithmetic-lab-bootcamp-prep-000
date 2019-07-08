@@ -36,4 +36,5 @@ function dec(a) {
   return a-1
 }
 
-console.log(parseInt('007'));
+console.log(parseInt('007',10));
+
