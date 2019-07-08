@@ -36,4 +36,5 @@ function dec(a) {
   return a-1
 }
 
-var text = 2 
+var text = '2'
+function = 
