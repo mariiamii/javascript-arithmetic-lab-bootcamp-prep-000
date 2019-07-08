@@ -37,4 +37,6 @@ function dec(a) {
 }
 
 var text = '2'
-function = parseInt()
+function = parseInt(text, 10) {
+  return parseInt(text, 10) 
+}
