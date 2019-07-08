@@ -26,3 +26,9 @@ function divide(a, b) {
   return a/b
 }
 
+var number = 10
+
+number++
+number--
+
+
