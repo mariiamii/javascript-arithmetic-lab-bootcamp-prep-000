@@ -36,4 +36,4 @@ function dec(a) {
   return a-1
 }
 
-console.log()
+console.log(parseInt('007'))
