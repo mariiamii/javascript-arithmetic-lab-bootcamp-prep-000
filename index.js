@@ -27,13 +27,6 @@ function divide(a, b) {
 }
 
 var a = 1
-function inc(a) {
-  return a+1
-}
 
-var a = 1 
-function dec(a) {
-  return a-1
-}
 
 
