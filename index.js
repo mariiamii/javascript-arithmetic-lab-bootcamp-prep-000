@@ -27,10 +27,10 @@ function divide(a, b) {
 }
 
 var inc(a) = 1
-a++;
+return a++;
 
 var dec(a) = 1 
-a--;
+return a--;
 
 
 
